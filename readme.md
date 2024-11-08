@@ -1,3 +1,4 @@
+hola
 Recopilamos datos históricos sobre caudales de ríos, precipitaciones, temperaturas, humedad y otros factores climáticos de diversas fuentes, incluyendo estaciones meteorológicas locales y bases de datos regionales. Se realizó un análisis exhaustivo de los datos para identificar patrones, tendencias estacionales y posibles problemas de calidad, como valores atípicos y datos faltantes. Además, se analizaron correlaciones entre las variables para comprender qué factores tenían mayor influencia en la disponibilidad de recursos hídricos
 
 CÓDIGO ESTACIÓN: Representa el Identificador único asignado a cada estación de monitoreo, que permite diferenciarlas dentro del sistema.
