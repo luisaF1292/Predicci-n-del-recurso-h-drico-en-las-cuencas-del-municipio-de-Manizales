@@ -15,3 +15,5 @@ TEMPERATURA: Representa la medición de la temperatura ambiental en grados Celsi
 HUMEDAD: Indica el porcentaje de vapor de agua en el aire, clave para evaluar la capacidad de retención de agua en la atmósfera y su impacto en las precipitaciones.
 
 VELOCIDAD: Muestra la velocidad del viento en metros por segundo, que afecta la evaporación y dispersión de la humedad en el área de estudio.
+
+Hola Luisa
